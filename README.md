@@ -73,3 +73,6 @@ Using annual time series data from **1990–2024** and the **Autoregressive Dist
 Adegbola Ayeni (2025). *Economic Hardship and its Implications on Education in the Diaspora (USA)*.  
 
 ---
+💡 **Author:** Adegbola Ayeni  
+📧 Contact: ayeniadegbolaelijah@gmail.com  
+🌐 Portfolio: https://github.com/adegbolaayeni
